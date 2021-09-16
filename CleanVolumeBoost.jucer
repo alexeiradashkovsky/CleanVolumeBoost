@@ -4,6 +4,10 @@
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
   <MAINGROUP id="lgtr2h" name="CleanVolumeBoost">
     <GROUP id="{3855A0C9-B070-AC63-8B9F-F912DB4E35E4}" name="Source">
+      <GROUP id="{3C745A0A-5A42-7FA5-FAED-8B31565C04E4}" name="Source">
+        <FILE id="cpZ9GG" name="PedalGUI.cpp" compile="1" resource="0" file="Source/PedalGUI.cpp"/>
+        <FILE id="ClFGgG" name="PedalGUI.h" compile="0" resource="0" file="Source/PedalGUI.h"/>
+      </GROUP>
       <FILE id="wpU98D" name="CleanValumeBoost.cpp" compile="1" resource="0"
             file="Source/CleanValumeBoost.cpp"/>
       <FILE id="JV6cYn" name="CleanValumeBoost.h" compile="0" resource="0"

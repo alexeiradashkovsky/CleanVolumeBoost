@@ -11,5 +11,15 @@
 #pragma once
 
 class CleanValumeBooost {
-
+public:
+private:
+    float Fs;
+    float Ts;
+    
+    float C2;
+    float Rc2;
+    float C3;
+    float Rc3;
+    float C5;
+    float Rc5;
 };
